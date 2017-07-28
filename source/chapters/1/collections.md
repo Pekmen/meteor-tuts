@@ -47,7 +47,6 @@ export default Donuts;
 
 ## Nasty Globals
 
-So let's start solving those errors,right ?
 Since our Donuts are isolated in their own module, we need to gain access to them. For that purpose, and only in this tutorial, we will use some very nasty global variables.
 Don't try this in a production project ! It fits into the category "Bad practices" !!
 
